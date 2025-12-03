@@ -1,4 +1,4 @@
-#SuperNinePin Controller Adaptor
+# SuperNinePin Controller Adaptor
 
 Converts a Super Nintendo controller to an Amiga/Commodore 64 controller, using digital logic. (none of this microcontroller nonsense)
 
