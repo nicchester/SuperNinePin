@@ -38,3 +38,49 @@ fp-info-cache
 
 # Local project settings
 *.kicad_prl
+
+# =========================
+# macOS
+# =========================
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+.VolumeIcon.icns
+.fseventsd
+
+# =========================
+# Windows
+# =========================
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# =========================
+# Linux
+# =========================
+.directory
+.Trash-*
+.nfs*
+
+# =========================
+# Cross-platform editor / OS temp files
+# =========================
+*.swp
+*.swo
+*.swn
+*.orig
+*.rej
+
+# =========================
+# File system metadata / misc
+# =========================
+lost+found/
+.DS_Store
